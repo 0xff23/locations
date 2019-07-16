@@ -1,0 +1,6 @@
+framework module Pods_LocationPinsUITests {
+  umbrella header "Pods-LocationPinsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
