@@ -1,3 +1,5 @@
+#Please run pod install 
+
 Additional features added:
 - Navigation to pin location added: When current location available, tap on any pin, then on annotation and press Go
 - Long gesture on the map will place new pin
