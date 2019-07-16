@@ -1,2 +1,2 @@
-# Please run pod install 
+## After clone please run pod install
 
